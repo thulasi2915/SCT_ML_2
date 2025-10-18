@@ -48,6 +48,6 @@ If not included, you can download it from Kaggle:
 ---
 
 ### 👤 Author
-**Your Name**  
+**Gaddam Thulasi**  
 SkillCraft Technology – Machine Learning Internship
 
